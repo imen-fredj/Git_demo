@@ -3,8 +3,4 @@ kalb
 djeja
 
 arnouba
-<<<<<<< HEAD
-hamster
-=======
 kalba
->>>>>>> testing
